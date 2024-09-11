@@ -1,0 +1,18 @@
+[
+    {
+        "postOfficeID": "PO_123",
+        "notifications" : [
+            "Alert: The Region Associated with camera ID CAM_001 was found to be on a clealiness score of 21 on 9/6/2024, 5:30:00 PM, kindly look into it. ",
+            "Alert: The Region Associated with camera ID CAM_003 was found to be on a clealiness score of 66 on 9/3/2024, 5:30:00 PM, kindly look into it. ",
+            "Great Work: The Region Associated with camera ID CAM_003 was found to be on a clealiness score of 90 on 9/3/2024, 5:30:00 PM, keep up the good work !"
+        ]
+    },
+    {
+        "postOfficeID": "PO_124",
+        "notifications" : [
+            "Alert: The Region Associated with camera ID CAM_001 was found to be on a clealiness score of 21 on 9/6/2024, 5:30:00 PM, kindly look into it. ",
+            "Alert: The Region Associated with camera ID CAM_003 was found to be on a clealiness score of 66 on 9/3/2024, 5:30:00 PM, kindly look into it. ",
+            "Great Work: The Region Associated with camera ID CAM_003 was found to be on a clealiness score of 90 on 9/6/2024, 6:30:00 PM, keep up the good work !"
+        ]
+    }
+]

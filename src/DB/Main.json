@@ -1,0 +1,195 @@
+[
+  {
+    "postOfficeID": "PO_123",
+    "name": "Central Post Office",
+    "region": {
+      "state": "Delhi",
+      "locality": "Connaught Place",
+      "pincode": "110001",
+      "address": "123 Connaught Circus, New Delhi, Delhi 110001"
+    },
+    "cameras": [
+  {
+    "camID": "CAM_001",
+    "image": "https://cdn.dnaindia.com/sites/default/files/2019/03/13/801533-garbage-29.jpg?im=FitAndFill=(1200,900)",
+    "score": 21,
+    "geolocation": {
+      "lat": 28.6328,
+      "long": 77.2197
+    },
+    "timestamp": "2024-09-06T12:00:00Z"
+  },
+  {
+    "camID": "CAM_002",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjUHS4HeQxJ9aYkMm1HdzxQevayhMLG5QtGw&s",
+    "score": 95,
+    "geolocation": {
+      "lat": 28.6330,
+      "long": 77.2200
+    },
+    "timestamp": "2024-09-06T12:30:00Z"
+  },
+  {
+    "camID": "CAM_003",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvIHEjy37DIyvqbTSJzGwHoosLLTu-r0Wf3UsEBCj_qgAsV2-VBqREw2ddsJbCxRbD8Q&usqp=CAU",
+    "score": 87,
+    "geolocation": {
+      "lat": 28.6335,
+      "long": 77.2202
+    },
+    "timestamp": "2024-09-06T13:00:00Z"
+  },
+  {
+    "camID": "CAM_004",
+    "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+    "score": 80,
+    "geolocation": {
+      "lat": 28.6332,
+      "long": 77.2205
+    },
+    "timestamp": "2024-09-06T13:30:00Z"
+  },
+  {
+    "camID": "CAM_005",
+    "image": "https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2015/11/28/Pictures/cracker-garbage_7b555e3a-95e7-11e5-ae0b-6bb83fa8865b.jpg",
+    "score": 47,
+    "geolocation": {
+      "lat": 28.6330,
+      "long": 77.2210
+    },
+    "timestamp": "2024-09-06T14:00:00Z"
+  }
+],
+
+    "overallScore": 66,  
+    "lastUpdated": "2024-09-06T14:00:00Z"
+  },
+  {
+    "postOfficeID": "PO_124",
+    "name": "Downtown Post Office",
+    "region": {
+      "state": "Delhi",
+      "locality": "Karol Bagh",
+      "pincode": "110005",
+      "address": "456 Ajmal Khan Rd, Karol Bagh, New Delhi, Delhi 110005"
+    },
+    "cameras": [
+      {
+        "camID": "CAM_003",
+        "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+        "score": 90,
+        "geolocation": {
+          "lat": 28.6517,
+          "long": 77.1926
+        },
+        "timestamp": "2024-09-06T13:00:00Z"
+      },
+      {
+        "camID": "CAM_006",
+        "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+        "score": 75,
+        "geolocation": {
+          "lat": 28.6520,
+          "long": 77.1928
+        },
+        "timestamp": "2024-09-06T13:30:00Z"
+      },
+      {
+        "camID": "CAM_007",
+        "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+        "score": 80,
+        "geolocation": {
+          "lat": 28.6519,
+          "long": 77.1930
+        },
+        "timestamp": "2024-09-06T14:00:00Z"
+      },
+      {
+        "camID": "CAM_008",
+        "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+        "score": 85,
+        "geolocation": {
+          "lat": 28.6515,
+          "long": 77.1935
+        },
+        "timestamp": "2024-09-06T14:30:00Z"
+      },
+      {
+        "camID": "CAM_009",
+        "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+        "score": 78,
+        "geolocation": {
+          "lat": 28.6514,
+          "long": 77.1938
+        },
+        "timestamp": "2024-09-06T15:00:00Z"
+      }
+    ],
+    "overallScore": 81,  
+    "lastUpdated": "2024-09-06T15:00:00Z"
+  },
+  {
+    "postOfficeID": "PO_125",
+    "name": "Uptown Post Office",
+    "region": {
+      "state": "Delhi",
+      "locality": "Hauz Khas",
+      "pincode": "110016",
+      "address": "789 Hauz Khas Village, New Delhi, Delhi 110016"
+    },
+    "cameras": [
+      {
+        "camID": "CAM_004",
+        "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+        "score": 78,
+        "geolocation": {
+          "lat": 28.5522,
+          "long": 77.1928
+        },
+        "timestamp": "2024-09-06T14:00:00Z"
+      },
+      {
+        "camID": "CAM_010",
+        "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+        "score": 82,
+        "geolocation": {
+          "lat": 28.5530,
+          "long": 77.1932
+        },
+        "timestamp": "2024-09-06T14:30:00Z"
+      },
+      {
+        "camID": "CAM_011",
+        "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+        "score": 85,
+        "geolocation": {
+          "lat": 28.5532,
+          "long": 77.1935
+        },
+        "timestamp": "2024-09-06T15:00:00Z"
+      },
+      {
+        "camID": "CAM_012",
+        "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+        "score": 88,
+        "geolocation": {
+          "lat": 28.5528,
+          "long": 77.1938
+        },
+        "timestamp": "2024-09-06T15:30:00Z"
+      },
+      {
+        "camID": "CAM_013",
+        "image": "https://images1.livehindustan.com/uploadimage/library/2023/10/01/16_9/16_9_6/1_OCT_BETT_1110959_1696182792_1696182792.JPG",
+        "score": 80,
+        "geolocation": {
+          "lat": 28.5526,
+          "long": 77.1940
+        },
+        "timestamp": "2024-09-06T16:00:00Z"
+      }
+    ],
+    "overallScore": 83,  
+    "lastUpdated": "2024-09-06T16:00:00Z"
+  }
+]
